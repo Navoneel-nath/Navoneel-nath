@@ -29,8 +29,9 @@ I’m passionate about artificial intelligence and machine learning—with a spe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-##Hugging face space
-- [![Hugging face](https://img.shields.io/badge/LinkedIn-Navoneel_Nath-blue?style=flat-square&logo=huggingface)](https://huggingface.co/NavoneelZenith)
+## 🤗 Hugging Face Space
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NavaoneelZenith-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/NavoneelZenith)
+
 
 ## 🔗 Connect with Me
 
