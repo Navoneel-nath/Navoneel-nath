@@ -21,7 +21,7 @@ I'm passionate about artificial intelligence and machine learning. With a keen i
 ## 📊 GitHub Stats
 
 <!-- GitHub stats card (adjust the username to yours) -->
-![Navoneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navoneelnath&show_icons=true&theme=radical)
+![Navoneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navoneel-nath&show_icons=true&theme=radical)
 
 <!-- Top Languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navoneelnath&layout=compact&theme=radical)
@@ -31,14 +31,14 @@ I'm passionate about artificial intelligence and machine learning. With a keen i
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navoneel_Nath-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navoneel-nath/)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:your-navoneelnathyts@gmail.com)
 
 ---
 
 ## 🌍 Visitor Count
 
 <!-- Visitor badge: this shows how many people have visited your profile -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=navoneelnath.navoneelnath)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Navoneel-nath.navoneelnath)
 
 ---
 
