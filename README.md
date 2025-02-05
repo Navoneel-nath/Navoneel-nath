@@ -1,7 +1,6 @@
-<!-- Hi there section with a waving hand emoji -->
+<!-- Introduction -->
 # Hi there, I'm **Navoneel Nath**! 👋
 
-<!-- A brief introduction about yourself -->
 ### AI/ML Developer | LLM Enthusiast | Tech Explorer
 
 I'm passionate about artificial intelligence and machine learning. With a keen interest in Large Language Models (LLMs) and innovative tech solutions, I enjoy exploring and building projects that push the boundaries of what's possible.
@@ -10,40 +9,41 @@ I'm passionate about artificial intelligence and machine learning. With a keen i
 
 ## 🔧 Skills & Technologies
 
-- **Programming:** Python, (and more...)
-- **Machine Learning:** TensorFlow, PyTorch, Scikit-Learn, etc.
-- **Data Science:** Pandas, NumPy, Matplotlib, etc.
-- **Interests:** Large Language Models (LLMs), Natural Language Processing, Deep Learning
-- **Tools:** Git, Docker, VS Code
+#### Programming Languages & Libraries
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### Tools & Platforms
+- Git, Docker, VS Code, and more...
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 3D Interactive Element
 
-<!-- GitHub stats card (adjust the username to yours) -->
-![Navoneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navoneel-nath&show_icons=true&theme=radical)
+I love experimenting with interactive and 3D visuals. Check out this cool 3D animation built using [Three.js](https://threejs.org/)—a great way to combine art and code!
 
-<!-- Top Languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navoneelnath&layout=compact&theme=radical)
+<div align="center">
+  <!-- This image is a placeholder screenshot. Replace the link with your own 3D demo or another interactive 3D asset -->
+  <a href="https://threejs.org" target="_blank">
+    <img src="https://threejs.org/examples/screenshots/interactive_draco.jpg" alt="Interactive 3D Animation" width="600" />
+  </a>
+  <p><i>Click the image to explore more 3D creations on Three.js!</i></p>
+</div>
+
+*Note: For an even more interactive experience, consider hosting your own Three.js demo and linking to it.*
 
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navoneel_Nath-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navoneel-nath/)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:your-navoneelnathyts@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail)](mailto:your-email@example.com)
 
 ---
 
-## 🌍 Visitor Count
-
-<!-- Visitor badge: this shows how many people have visited your profile -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Navoneel-nath.navoneelnath)
-
----
-
-<!-- Optional: Add a fun or inspirational quote -->
 > "The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
 
-<!-- Feel free to include any additional sections like projects, blog posts, or achievements -->
-
+<!-- Feel free to add any additional sections such as Projects, Blog Posts, etc. -->
