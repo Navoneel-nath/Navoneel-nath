@@ -39,4 +39,3 @@ I’m passionate about artificial intelligence and machine learning—with a spe
 
 > "Innovation is born from the interplay of art and science." – *Inspired by every creative coder*
 
-<!-- You can add more sections like Projects, Blog Posts, or Achievements below if desired -->
